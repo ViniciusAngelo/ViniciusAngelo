@@ -22,4 +22,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusgangelo/)
 
+## 📊 **GitHub Analytics** 
+
+<div align="center">
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAngelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAngelo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusAngelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  
+</div>
+
+---
+
 
