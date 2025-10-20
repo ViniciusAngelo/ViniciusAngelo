@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=🚀+Desenvolvedor+Full+Stack;💡+Criador+de+Soluções+Inovadoras;🌟+Transformando+Ideias+em+Realidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=🚀+Engenheiro da Computação;💡+Criador+de+Soluções+Inovadoras;🌟+Transformando+Ideias+em+Realidade" alt="Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -19,6 +19,10 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusgangelo/)
+
+  <a href="https://viniciusangelo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
 
 <div align="center">
   
