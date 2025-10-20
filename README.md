@@ -8,29 +8,20 @@
   
 </div>
 
----
+<p align="center">
+  Desenvolvedor(a) [Sua Área de Foco, ex: Full-Stack, Mobile, Data Science]
+    
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViniciusAngelo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAngelo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Minhas Habilidades
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker" />
+  Atualmente focado(a) em [Tecnologia ou Projeto, ex: React e Node.js] e sempre aprendendo algo novo!
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusgangelo/)
-
-## 📊 **GitHub Analytics** 
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusAngelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
-  
-</div>
+<!-- Opcional: Adicionar um contador de visitas para mostrar quantas pessoas viram seu perfil -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{SEU_USUARIO_GITHUB}/count.svg" alt="Contador de visitas do perfil" />
+</p>
 
 ---
+
 ## 🛠️ **Arsenal Tecnológico** | **Tech Arsenal**
 
 <div align="center">
