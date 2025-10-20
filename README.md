@@ -19,3 +19,9 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusgangelo/)
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusAngelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  
+</div>
