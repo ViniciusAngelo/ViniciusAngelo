@@ -25,3 +25,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusAngelo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
   
 </div>
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=16&fontColor=fff&animation=twinkling"/>
+  
+</div>
