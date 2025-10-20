@@ -8,20 +8,6 @@
   
 </div>
 
-<p align="center">
-  Desenvolvedor(a) [Sua Área de Foco, ex: Full-Stack, Mobile, Data Science]
-    
-
-  Atualmente focado(a) em [Tecnologia ou Projeto, ex: React e Node.js] e sempre aprendendo algo novo!
-</p>
-
-<!-- Opcional: Adicionar um contador de visitas para mostrar quantas pessoas viram seu perfil -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{SEU_USUARIO_GITHUB}/count.svg" alt="Contador de visitas do perfil" />
-</p>
-
----
-
 ## 🛠️ **Arsenal Tecnológico** | **Tech Arsenal**
 
 <div align="center">
