@@ -1,4 +1,14 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Vinicius Angelo
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🚀+Desenvolvedor+Full+Stack;💡+Criador+de+Soluções+Inovadoras;⚡+JavaScript+%7C+React+%7C+Vue+%7C+Node;🌟+Transformando+Ideias+em+Realidade" alt="Typing SVG" />
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+---
 
 [![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViniciusAngelo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
