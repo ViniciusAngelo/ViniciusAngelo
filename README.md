@@ -8,10 +8,6 @@
   
 </div>
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViniciusAngelo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAngelo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Minhas Habilidades
 
 <p align="left">
