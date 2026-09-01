@@ -66,24 +66,6 @@ Redes: TCP/IP, DNS, DHCP, Cisco e Juniper
 •
 ITSM e colaboração: ServiceNow, Jira e práticas ITIL
 
-Projetos em destaque
-
-Sistema de detecção de ataques DDoS com Machine Learning
-
-Trabalho de Conclusão de Curso desenvolvido em Python, utilizando técnicas de Machine Learning para classificação de tráfego e identificação de possíveis ataques DDoS. O projeto combina análise de dados, redes e cibersegurança.
-
-Projeto de DevOps e CI/CD
-
-Aplicação desenvolvida com Maven e JUnit, integrada a pipelines de CI/CD no Jenkins, com deploy automatizado em containers Docker.
-
-Green Reward
-
-Projeto de aplicação voltada ao incentivo à reciclagem por meio de recompensas financeiras. Atuação como Scrum Master, com organização de atividades, acompanhamento de sprints e utilização do Jira.
-
-Migração de equipamentos de rede
-
-Participação em projeto de substituição de equipamentos Cisco por Juniper, apoiando atividades on-site, troubleshooting, validação e procedimentos pós-migração.
-
 Formação e certificação
 
 •
