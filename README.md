@@ -72,7 +72,7 @@ Tenho interesse em evoluir continuamente na área de **Cloud e DevOps**, aplican
   <a href="https://www.linkedin.com/in/viniciusgangelo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://viniciusangelo.vercel.app/" target="_blank">
+  <a href="https://engviniciusangelo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-1f4e79?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
   <a href="mailto:vinicius.g.angelo@gmail.com">
